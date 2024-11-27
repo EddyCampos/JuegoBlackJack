@@ -1,0 +1,4 @@
+﻿  Juego_Blackjack.cpp
+C:\Users\Usuario\Documents\Curso Programación\Módulo 2 Programación Estructurada\Proyecto Final\Blackjack\Juego_Blackjack\funciones_Blackjack.h(155,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\Documents\Curso Programación\Módulo 2 Programación Estructurada\Proyecto Final\Blackjack\Juego_Blackjack\funciones_Blackjack.h(172,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Juego_Blackjack.vcxproj -> C:\Users\Usuario\Documents\Curso Programación\Módulo 2 Programación Estructurada\Proyecto Final\Blackjack\x64\Debug\Juego_Blackjack.exe
